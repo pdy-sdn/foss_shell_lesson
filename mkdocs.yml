@@ -1,0 +1,5 @@
+# Page tree
+nav:
+- Home: index.md
+- DMP: dmp.md
+- Education: edu.md
